@@ -1,0 +1,9 @@
+#bioPage p {
+  width: 60%;
+  margin: left;
+  padding-left: 20px;
+}
+
+#technologiesPage ul {
+  list-style-type: none;
+}
