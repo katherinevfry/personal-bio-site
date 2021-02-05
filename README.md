@@ -16,3 +16,6 @@ The user wants to know more about me and potentially hire me for web development
 -Poject Cards
 -Footer with links to socials and linkedin
 ## Screenshots of your project
+![screenshot](https://github.com/katherinevfry/personal-bio-site/blob/html-css/Screenshot%20(23).png)
+
+my styling really needs some work... but I have big plans for that in the future!
